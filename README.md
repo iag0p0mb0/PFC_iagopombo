@@ -6,5 +6,6 @@ El repositorio en el que se encuentra el proyecto en el que estoy trabajando es:
 
 ## Ramas
 En el repositorio citado anteriormente, he trabajado con el usuario @iagopombo en las siguientes ramas:
+
   -sb_15
   -sb_20
