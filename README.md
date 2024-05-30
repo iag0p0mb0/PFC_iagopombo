@@ -1,7 +1,20 @@
 <h1 align="center">SkinCare Biotech</h1>
+
+![skincare-biotech-high-resolution-logo-transparent](https://github.com/iag0p0mb0/PFC_iagopombo/assets/145339059/fda847d5-bba4-427d-9352-376efa5d6694)
+
 SkinCare Biotech es una aplicación web de e-commerce con productos destinados a la cosmética. En ella, podrás comprar los artículos disponibles para ello o, en caso de ser un laboratorio y/o una marca externa, vender productos relacionados con el sector de la belleza y el cuidado personal.  
 Esta aplicación está pensada para ser utilizada por compradores interesados en este tipo de productos cuyo aumento es notable en la sociedad actual debido a diferentes factores. Por otro lado, la aplicación está destinada también a marcas de cualquier tamaño ajenas a ella para que tengan la oportunidad de venta desde otra plataforma.
 Por lo tanto, esta aplicación tendrá como mínimo dos roles aparte de, una función  gestora denominada como director del laboratorio encargado de administrar tanto la parte de los vendedores como la de los productos de la propia aplicación. 
+
+## Tecnologías empleadas para su desarrollo
+<p align="center">
+    <a href="https://www.oracle.com/java/">
+    <img src="https://img.shields.io/badge/Java-11-blue.svg?logo=java&logoColor=white" alt="Java">
+  </a>
+  <a href="https://angular.io/">
+    <img src="https://img.shields.io/badge/Angular-15.2.9-red.svg?logo=angular&logoColor=white" alt="Angular">
+  </a>
+</p>
 
 ## Principales funcionalidades
   - Carrito para poder comprar varios productos a la vez
