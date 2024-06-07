@@ -29,7 +29,7 @@ Hay 3 tipos de roles de usuario:
   - El usuario comprador es aquel que tiene la posibilidad de loguearse, aunque se encuentra obligado a hacerlo en caso de que quiera realizar alguna compra debido a los requisitos de la aplicación. Este usuario, sin estar logueado, puede visualizar toda la aplicación, pero en ningún caso podrá comprar. Aún estando logueado, el usuario siempre tendrá que rellenar un formulario antes de finalizar la compra con los datos del pedido. Para realizar las compras deseadas, el usuario dispone de un carrito para poder manejar el pedido, añadiendo o descartando productos y adaptándose a las necesidades que presente el usuario en el proceso.
 
 ## ¿Dónde puedo encontrar este proyecto?
-Al ser un proyecto gestionado por la empresa CampusDual e Imatia, se encuentra en la cuenta de CampusDual, exactamente en el siguiente repositorio: https://github.com/CampusDual/cd2024bfs1g1
+Al ser un proyecto gestionado por la empresa CampusDual e Imatia, se encuentra en la cuenta de CampusDual, exactamente en el siguiente repositorio: https://github.com/CampusDual/cd2024bfs1g1 <br>
 Además, las instrucciones de instalación del proyecto se encuentran dentro del README.md del repositorio anteriormente mencionado.
 
 ## ¿En qué ramas puedo ver tus commits?
