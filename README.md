@@ -8,7 +8,7 @@ Por lo tanto, esta aplicación tendrá como mínimo dos roles aparte de, una fun
 
 ## Tecnologías empleadas para su desarrollo
 <p align="center">
-    <a href="https://www.oracle.com/java/">
+  <a href="https://www.oracle.com/java/">
     <img src="https://img.shields.io/badge/Java-11-blue.svg?logo=java&logoColor=white" alt="Java">
   </a>
   <a href="https://angular.io/">
@@ -17,22 +17,22 @@ Por lo tanto, esta aplicación tendrá como mínimo dos roles aparte de, una fun
 </p>
 
 ## Principales funcionalidades
-  - Carrito para poder comprar varios productos a la vez
-  - Parte pública para los compradores intuitiva
-  - Parte privada para los vendedores con estadísticas y parte de gestión de sus productos
-  - Historial de pedidos personalizado para cada usuario
+  - Carrito para poder comprar varios productos a la vez.
+  - Parte pública para los compradores intuitiva.
+  - Parte privada para los vendedores con estadísticas y gestión de sus productos.
+  - Historial de pedidos personalizado para cada usuario.
 
 ## Uso dependiendo del usuario
 Hay 3 tipos de roles de usuario:
-  - El usuario gestor en esta aplicación, tiene la opción de administrar los productos y los vendedores, es decir, puede deshabilitar un producto en caso de que, por ejemplo, se quede sin stock el vendedor y este no tenga constancia de ello. Otra función es eliminar una figura vendedora de esta aplicación, en el supuesto de que alguna de sus acciones y/o prácticas resulten contrarias a las normas interpuestas con la compañía BioTech. Este usuario está limitado a cada marca, lo que significa que, solo puede existir un usuario de esta tipología por marca.
-  - El usuario vendedor tiene las funciones de subir productos, editarlos, añadir ofertas, categorías, para que, posteriormente, el usuario tenga la posibilidad de filtrar; y además la opción de habilitar o deshabilitar la visibilidad del producto. Cada marca perteneciente a la aplicación podrá tener diferentes vendedores por lo que no es un usuario que se encuentre limitado.
-  - El usuario comprador es aquel que tiene la posibilidad de loguearse, aunque se encuentre obligado en el caso de que quiera realizar alguna compra debido a que así requiere la aplicación. Este usuario sin estar logueado puede visualizar toda la aplicación  pero, en ningún caso podrá comprar. Aún estando logueado, el usuario siempre tendrá que rellenar un formulario antes de finalizar la compra con los datos del pedido. Para realizar las compras deseadas por el usuario se pone a disposición del mismo un carrito para poder manejar el pedido, añadiendo o descartando productos y adaptándose a las necesidades que presente el usuario en el proceso.
+  - El usuario gestor en esta aplicación tiene la opción de administrar los productos y los vendedores. Es decir, puede deshabilitar un producto en caso de que, por ejemplo, se quede sin stock el vendedor y este no tenga constancia de ello. Otra función es eliminar una figura vendedora de esta aplicación, en el supuesto de que alguna de sus acciones y/o prácticas resulten contrarias a las normas interpuestas por la compañía BioTech. Este usuario está limitado a cada marca, lo que significa que solo puede existir un usuario de esta tipología por marca.
+  - El usuario vendedor tiene las funciones de subir productos, editarlos, añadir ofertas y categorías para que, posteriormente, el usuario tenga la posibilidad de filtrar; y además la opción de habilitar o deshabilitar la visibilidad del producto. Cada marca perteneciente a la aplicación podrá tener diferentes vendedores, por lo que no es un usuario que se encuentre limitado.
+  - El usuario comprador es aquel que tiene la posibilidad de loguearse, aunque se encuentra obligado a hacerlo en caso de que quiera realizar alguna compra debido a los requisitos de la aplicación. Este usuario, sin estar logueado, puede visualizar toda la aplicación, pero en ningún caso podrá comprar. Aún estando logueado, el usuario siempre tendrá que rellenar un formulario antes de finalizar la compra con los datos del pedido. Para realizar las compras deseadas, el usuario dispone de un carrito para poder manejar el pedido, añadiendo o descartando productos y adaptándose a las necesidades que presente el usuario en el proceso.
 
 ## ¿Dónde puedo encontrar este proyecto?
-Al ser un rpoyecto gestionado por la empresa CampusDual e Imatia se encuentra en la cuenta de CaampusDual, exactamente en el siguiente repositorio: https://github.com/CampusDual/cd2024bfs1g1
+Al ser un proyecto gestionado por la empresa CampusDual e Imatia, se encuentra en la cuenta de CampusDual, exactamente en el siguiente repositorio: https://github.com/CampusDual/cd2024bfs1g1
 
 ## ¿En qué ramas puedo ver tus commits?
-Al ser un proyecto gestionado por una empresa, somos bastantes colaboradores divididos trabajando en el mismo proyecto pero estas son las ramas en las que he realizado commits y, por lo tanto, las ramas donde he colaborado:
+Al ser un proyecto gestionado por una empresa, somos bastantes colaboradores divididos trabajando en el mismo proyecto, pero estas son las ramas en las que he realizado commits y, por lo tanto, las ramas donde he colaborado:
   - sb_15
   - sb_20
   - sb_88
