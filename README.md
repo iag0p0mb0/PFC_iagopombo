@@ -30,6 +30,7 @@ Hay 3 tipos de roles de usuario:
 
 ## ¿Dónde puedo encontrar este proyecto?
 Al ser un proyecto gestionado por la empresa CampusDual e Imatia, se encuentra en la cuenta de CampusDual, exactamente en el siguiente repositorio: https://github.com/CampusDual/cd2024bfs1g1
+Además, las instrucciones de instalación del proyecto se encuentran dentro del README.md del repositorio anteriormente mencionado.
 
 ## ¿En qué ramas puedo ver tus commits?
 Al ser un proyecto gestionado por una empresa, somos bastantes colaboradores divididos trabajando en el mismo proyecto, pero estas son las ramas en las que he realizado commits y, por lo tanto, las ramas donde he colaborado:
